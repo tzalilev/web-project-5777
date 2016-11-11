@@ -1,0 +1,31 @@
+
+//user
+{
+	id: "1",
+	userName: "moshe12",
+	password: "1234",
+	email: "moshe@gmail.com",
+	category: 2, 	// 0 - manager, 1 - employee, 2 - customer, 3 - vendor
+	branchId: 1
+}
+
+
+//branch
+{
+	id: "1",
+	name: "Tel Aviv store",
+	isActive: true,
+	address: "Menachem Begin 30, Tel Aviv",
+	phone: "052-1234567"
+}
+
+
+//flower
+{
+	id: "52",
+	name: "rose",
+	color: "pink",
+	image: "https://s-media-cache-ak0.pinimg.com/236x/38/cb/d0/38cbd0f6b73df4414c6831806b65a070.jpg",
+	price: 25,
+}
+
