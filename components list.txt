@@ -1,0 +1,36 @@
+
+index.html //Tzali
+
+	login --(component??)
+	logo
+	footer
+	menu
+
+flowers-catalog	//Yitzchak
+
+users-management	//add,	delete,	permissions //Tzali
+
+branches-management	//add, delete, update, change-isActive	//Yitzchak
+
+about	//Yitzchak	
+
+contact-us	//Tzali
+
+
+///////////////////////////////
+
+app (folder)
+app/index.html
+app/app.module.js
+
+///////////////////////////////
+
+component-files, x for comp
+
+x (folder)
+x/x.template.html
+x/x.component.js
+x/x.module.js
+
+
+
