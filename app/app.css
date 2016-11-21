@@ -1,0 +1,72 @@
+.carousel-inner {
+    background: #eeeeee;
+
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+    height: 500px;
+    width: 750px;
+}
+
+body {
+    background: #eeeeee;
+}
+
+.thumbnail {
+    padding-left: 50px;
+}
+#h44 {
+    font-family: "Devanagari Sangam MN";
+    text-align: left;
+}
+
+#h45 {
+    font-family: "Devanagari Sangam MN";
+    text-align: left;
+    margin-bottom: 50px;
+    margin-top: -10px;
+
+}
+
+.col-md-12 {
+    text-align: left;
+}
+
+.img-circle {
+    height: 350px;
+    width: 350px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+ul#my-list{
+    margin-top: 40px;
+}
+
+ul#my-list li {
+    display:inline;
+}
+
+#my-li {
+    width: 350px;
+    margin-top: 50px;
+}
+
+.col-md-12#the-mad-footer
+{
+    background: #ffffff;
+    border: dashed #999999 1px;
+    margin-top: 20px;
+    font-family: Chalkboard;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+

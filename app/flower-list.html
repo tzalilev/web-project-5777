@@ -1,0 +1,19 @@
+<div class="container">
+
+    <h2 class="col-md-12">Flower Gallery</h2>
+    <h3 class="col-md-12" id="h44">{{"In our flowers catalog you can find all the most popular flowers in the world."}}</h3>
+    <h3 class="col-md-12" id="h45">{{"Please pick carefully the one you wanna buy, and let yourself enjoy the view."}}</h3>
+
+
+    <ul id="my-list">
+        <li id="my-li">
+    <div ng-repeat="flower in $ctrl.flowers" class="col-sm-4">
+            <a href="#!/flowers/{{flower.id}}" class="thumbnail">
+                <h3>{{flower.name}}</h3>
+                <img src="{{flower.image}}" alt="{{flower.name}}" class="img-circle" style="width:150px;height:150px">
+            </a>
+    </div>
+        </li>
+    </ul>
+</div>
+
